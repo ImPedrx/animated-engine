@@ -1,8 +1,82 @@
 @import url("https://use.typekit.net/fxk8iyk.css");
 
 
+
 Open Sans Regular {
     font-family: "open-sans", sans-serif;
     font-weight: 400;
     font-style: normal; 
 }
+
+:root {
+    font-family: "open-sans";
+}
+
+body {
+    background-color: #F5F4F0;
+}
+
+.container {
+    width: 1120px;
+    height: 3054px;
+    padding-top: 88px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 137px;
+    margin: auto;
+
+}
+/* headline */ 
+h4 {
+    color: #E1624F;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+h4 + h1 {
+    margin-bottom: auto 8px;
+}
+
+ /* Title h1 */
+h1 {
+    font-size: 36px;
+    font-weight: bold; }
+
+.sub {
+    font-size: 16px;
+    text-align: center;
+    font-style: italic;
+    width: 1120;
+    height: 37;
+    
+}
+
+p {
+    font-size: 16px;
+    font-style: auto;
+}
+
+.Historia > 
+
+img {
+    border-radius: 16px;
+}
+
+ol { 
+    margin: none;
+    text-align: justify;
+    margin-left: -30px;
+}
+
+ol > h3 {
+    font-size: 28px;
+}
+ol > p {
+    margin-left: -16px;
+}
+
+
