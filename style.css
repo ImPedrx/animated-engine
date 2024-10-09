@@ -26,6 +26,8 @@ body {
     margin: auto;
 
 }
+
+
 /* headline */ 
 h4 {
     color: #E1624F;
@@ -70,6 +72,7 @@ ol {
     margin: none;
     text-align: justify;
     margin-left: -30px;
+    
 }
 
 ol > h3 {
