@@ -14,6 +14,7 @@ Open Sans Regular {
 
 img {
     border-radius: 16px;
+    margin-bottom: 20px;
 }
 
 body {
@@ -41,6 +42,7 @@ h4 {
 
 h3 {
     font-size: 28px;
+    margin-top: 0px;
 }
 
  /* Title h1 */
@@ -65,6 +67,7 @@ h1 {
     width: 1120;
     height: 37;
     margin-bottom: 40px;
+    margin-top: 0px;
     color: #1E1E1E;
     
 }
@@ -73,27 +76,18 @@ p {
     font-size: 16px;
     font-style: auto;
 }
-h4 > h2 {
-    margin-bottom: 2px;
-}
-
-
-ol { 
-    margin: none;
-    text-align: justify;
-    margin-left: -30px;
-}
-
-ol > h3 {
-    font-size: 28px;
-}
-ol > p {
-    margin-left: -16px;
-}
-
 
 .linha {
     width: px;
     background-color: #D9D9D9;
     height: 2px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 65px;
+}
+
+footer img {
+    vertical-align:  -webkit-baseline-middle;
 }
