@@ -9,7 +9,9 @@ Open Sans Regular {
 }
 
 :root {
-    font-family: "open-sans";
+    font-family: "open-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
 }
 
 img {
@@ -86,8 +88,9 @@ p {
 footer {
     text-align: center;
     margin-top: 65px;
+    font-size: 16px;
 }
 
 footer img {
-    vertical-align:  -webkit-baseline-middle;
+    vertical-align:  -90%;
 }
