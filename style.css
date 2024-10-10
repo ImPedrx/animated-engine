@@ -12,6 +12,10 @@ Open Sans Regular {
     font-family: "open-sans";
 }
 
+img {
+    border-radius: 16px;
+}
+
 body {
     background-color: #F5F4F0;
 }
@@ -64,9 +68,7 @@ p {
 
 .Historia > 
 
-img {
-    border-radius: 16px;
-}
+
 
 ol { 
     margin: none;
