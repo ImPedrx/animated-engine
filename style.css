@@ -17,6 +17,7 @@ Open Sans Regular {
 img {
     border-radius: 16px;
     margin-bottom: 20px;
+    width: 100%;
 }
 
 body {
@@ -64,7 +65,9 @@ h1 {
  }
 
 
- 
+ ul li::marker {
+    color: #333333;
+  }
 
 /* Subtitulos */
 .sub {
@@ -76,6 +79,7 @@ h1 {
     margin-bottom: 40px;
     margin-top: 0px;
     color: #1E1E1E;
+    line-height: 22px;
     
 }
 /* paragrafos */
@@ -98,4 +102,7 @@ footer {
 
 footer img {
     vertical-align:  -90%;
+    width: 14px;
+    height: 12px;
+
 }
